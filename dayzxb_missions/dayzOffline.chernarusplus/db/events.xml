@@ -38,7 +38,7 @@
         </children>
     </event>
     <event name="AnimalCow">
-        <nominal>7</nominal>
+        <nominal>14</nominal>
         <min>2</min>
         <max>3</max>
         <lifetime>180</lifetime>
@@ -60,7 +60,7 @@
         </children>
     </event>
     <event name="AnimalDeer">
-        <nominal>9</nominal>
+        <nominal>18</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -78,7 +78,7 @@
         </children>
     </event>
     <event name="AnimalGoat">
-        <nominal>8</nominal>
+        <nominal>16</nominal>
         <min>1</min>
         <max>3</max>
         <lifetime>180</lifetime>
@@ -98,7 +98,7 @@
         </children>
     </event>
     <event name="AnimalPig">
-        <nominal>6</nominal>
+        <nominal>9</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>180</lifetime>
@@ -133,7 +133,7 @@
         </children>
     </event>
     <event name="AnimalSheep">
-        <nominal>5</nominal>
+        <nominal>9</nominal>
         <min>4</min>
         <max>5</max>
         <lifetime>180</lifetime>
@@ -151,7 +151,7 @@
         </children>
     </event>
     <event name="AnimalWildBoar">
-        <nominal>7</nominal>
+        <nominal>9</nominal>
         <min>1</min>
         <max>3</max>
         <lifetime>180</lifetime>
