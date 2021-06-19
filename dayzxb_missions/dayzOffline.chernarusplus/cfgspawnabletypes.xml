@@ -6,7 +6,44 @@
 		<hoarder />
 	</type>
 	<type name="Barrel_Green">
-		<hoarder />
+		<cargo chance="1">
+			<item name="Hammer" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="HandSaw" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Hatchet" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Pliers" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="MetalWire" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="MetalWire" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="MetalWire" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="DuctTape" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NailBox" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NailBox" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NailBox" chance="1" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NailBox" chance="1" />
+		</cargo><cargo chance="1">
+			<item name="Shovel" chance="1" />
+		</cargo>
 	</type>
 	<type name="Barrel_Red">
 		<hoarder />
