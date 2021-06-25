@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
-	<event name="ItemLootBarrels">
+	<event name="ItemAliceBagGreen">
 		<pos x="12740.50" z="9447.02" a="180" />
-		<pos x="10418.41" z="2210.31" a="180" />
+		<pos x="10590.68" z="2533.10" a="180" />
 	</event>
 
 	<event name="VehicleCivilianSedan">
