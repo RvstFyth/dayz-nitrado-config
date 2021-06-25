@@ -1690,7 +1690,7 @@
         <category name="tools"/>
     </type>
     <type name="BakedBeansCan">
-        <nominal>30</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -3625,7 +3625,7 @@
         <value name="Tier3"/>
     </type>
     <type name="CatFoodCan">
-        <nominal>15</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -5107,7 +5107,7 @@
         <usage name="Village"/>
     </type>
     <type name="DogFoodCan">
-        <nominal>15</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -11751,7 +11751,7 @@
         <category name="food"/>
     </type>
     <type name="PeachesCan">
-        <nominal>30</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>25</min>
@@ -12242,7 +12242,7 @@
         <usage name="Police"/>
     </type>
     <type name="PorkCan">
-        <nominal>30</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>25</min>
@@ -13123,7 +13123,7 @@
         <value name="Tier4"/>
     </type>
     <type name="SardinesCan">
-        <nominal>40</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -14431,7 +14431,7 @@
         <usage name="School"/>
     </type>
     <type name="SodaCan_Cola">
-        <nominal>25</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -14459,7 +14459,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Kvass">
-        <nominal>25</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -14487,7 +14487,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Spite">
-        <nominal>25</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -14501,7 +14501,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SpaghettiCan">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>25</min>
@@ -15001,7 +15001,7 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalBaconCan">
-        <nominal>10</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15856,7 +15856,7 @@
         <category name="vehiclesparts"/>
     </type>
     <type name="TunaCan">
-        <nominal>40</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
